@@ -5,39 +5,44 @@
     box-sizing: border-box;
 }
 
+
+
 #hr_1 {
 
- margin: 0.5em;
- border-top: 1px solid black;
-  
+  margin-top: 0.1em;
+  border-top: 3px solid black;
 }
 
 #overskrift {
 
-font-size: xxx-large;
+font-size:500%;
 letter-spacing: -3px;
 font-family: sans-serif;
 font-weight: 500;
 line-height: 80%;
 width: 10px;
 margin-left: 0.2em;
+padding-top: 0.2em;
+
 
 }
 
 #p_0 {
 
 text-align: center; 
-width: 400px;
+
 
 }
 
 #menu {
+
 
 text-align: right;
 color: aliceblue;
 
 
 }
+
 
 body{
 
@@ -50,20 +55,16 @@ img {
    
    border-radius: 2%;
     margin: 0.9em;
+    width: 100%;
 
 }
 
-#top_hr {
-
-padding-top: 10px;
-
-}
 
 
 #hr_2 {
 
  margin: 0.5em;
- border-top: 1px solid black;
+ border-top: 3px solid black;
 
 }
 
@@ -77,11 +78,11 @@ padding-top: 10px;
 #bottom{
 
 margin-left: 0.3em;
-font-size: xxx-large;
+font-size:550%;
 letter-spacing: -3px;
 font-family: sans-serif;
 font-weight: 500;
-line-height: 80%;
-width: 364px;
+line-height: 90%;
+width: 53%;
 
 }
