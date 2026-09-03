@@ -9,39 +9,60 @@
 
 #hr_1 {
 
-  margin-top: 0.1em;
+  
+  margin-top: 0.5em;
+  margin-right: 0.5em;
+  margin-left: 0.9em;
   border-top: 3px solid black;
 }
 
-#overskrift {
+/* Ai brug til hjaelp af teksten i toppen*/
 
-font-size:500%;
-letter-spacing: -3px;
-font-family: sans-serif;
-font-weight: 500;
-line-height: 80%;
-width: 10px;
-margin-left: 0.2em;
-padding-top: 0.2em;
-
-
+.header {
+  position: relative;
+  height: 130px;
+  padding: 20px;
+  border: 0px solid #000;
+  
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-#p_0 {
+.logo {
+  position: absolute;
+  top: 5px;
+  left: 11px;
 
-text-align: center; 
-
-
+  font-size: 70px;
+  font-weight: 500;
+  line-height: 0.78;
+  letter-spacing: -3px;
+  
 }
 
-#menu {
+.description {
+  position: absolute;
+  top: 5px;
+  left: 32%;
 
-
-text-align: right;
-color: aliceblue;
-
-
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 1.1;
 }
+
+.menu {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+
+  background: #000;
+  color: white;
+  border: none;
+  border-radius: 20px;
+
+  padding: 4px 12px;
+  font-size: 9px;
+}
+
 
 
 body{
@@ -56,14 +77,13 @@ img {
    border-radius: 2%;
     margin: 0.9em;
     width: 100%;
-
 }
 
 
 
 #hr_2 {
 
- margin: 0.5em;
+ margin: 0.9em;
  border-top: 3px solid black;
 
 }
@@ -77,12 +97,12 @@ img {
 
 #bottom{
 
-margin-left: 0.3em;
+margin-left: 0.2em;
 font-size:550%;
 letter-spacing: -3px;
 font-family: sans-serif;
 font-weight: 500;
 line-height: 90%;
-width: 53%;
+width: 59.1%;
 
 }
