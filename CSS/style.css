@@ -5,17 +5,43 @@
     box-sizing: border-box;
 }
 
+body{
+
+background-color: blanchedalmond;
+
+}
+
 img {
 
     border-radius: 2%;
     
+
 }
 
+#top_hr {
+
+padding-top: 10px;
+
+}
 
 #overskrift {
 
 font-size: xxx-large;
 font-family:Arial, Helvetica, sans-serif;
-padding: 0%px;
+width: 10px;
+
+
+}
+
+#menu {
+
+   font-family: Arial, Helvetica, sans-serif;
+   border-radius: 1px;
+
+}
+
+#p_0 {
+
+text-align: center;
 
 }
