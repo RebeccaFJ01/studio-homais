@@ -27,13 +27,14 @@ margin-left: 0.2em;
 #p_0 {
 
 text-align: center; 
+width: 400px;
 
 }
 
 #menu {
 
-   font-family: Arial, Helvetica, sans-serif;
 text-align: right;
+color: aliceblue;
 
 
 }
@@ -46,7 +47,8 @@ background-color:#dbd2b7;
 
 img {
 
-    border-radius: 2%;
+   
+   border-radius: 2%;
     margin: 0.9em;
 
 }
@@ -58,20 +60,28 @@ padding-top: 10px;
 }
 
 
-
-
-
-
-
 #hr_2 {
 
  margin: 0.5em;
  border-top: 1px solid black;
-  
+
+}
+
+#p_1{
+
+    margin-left: 0.9em;
+    padding-bottom: 5%;
+
 }
 
 #bottom{
 
-    margin-left: 0.3em;
-    width: 
+margin-left: 0.3em;
+font-size: xxx-large;
+letter-spacing: -3px;
+font-family: sans-serif;
+font-weight: 500;
+line-height: 80%;
+width: 364px;
+
 }
